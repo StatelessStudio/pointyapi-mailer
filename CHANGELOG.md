@@ -1,0 +1,1 @@
+# PointyApi Mailer Module Changelog
