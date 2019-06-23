@@ -8,8 +8,7 @@ export class PointyMailer extends NodeMailgun {
 	 * Log
 	 */
 	public log(...data) {
-		// TODO: Log module name
-		console.log(data);
+		console.log('[Mailer]', data);
 	}
 
 	/**
