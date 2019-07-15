@@ -9,18 +9,18 @@
 		"postinstall": "tsc --p tsconfig.dist.json"
 	},
 	"dependencies": {
-		"pointyapi": "^3.0.0",
+		"pointyapi": "^3.0.2",
 		"ts-mailgun": "^0.3.5",
 		"typeorm": "^0.2.18"
 	},
 	"main": "./index.js",
 	"types": "./index.d.ts",
 	"devDependencies": {
-		"@types/node": "^10.14.10",
+		"@types/node": "^10.14.12",
 		"source-map-support": "^0.5.12",
 		"tslint": "^5.18.0",
 		"tslint-eslint-rules": "^5.4.0",
-		"typescript": "^3.5.2"
+		"typescript": "^3.5.3"
 	},
 	"description": "*\"Mailgun Email module for PointyAPI\"*",
 	"directories": {
