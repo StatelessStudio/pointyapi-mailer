@@ -3,7 +3,7 @@
 ## [0.0.3] Aug-06-2019
 
 ### Fixes
-
+- [Issue #4] Only initialize newsletter if MAILGUN_NEWSLETTER environment variable is set
 
 ## [0.0.2] Jul-15-2019
 
