@@ -35,7 +35,9 @@ export class PointyMailer extends NodeMailgun {
 			throw new Error('Could not initialize templates.');
 		});
 
-		this.initMailingList(process.env.MAILGUN_NEWSLETTER);
+		if (process.env.MAILGUN_NEWSLETTER) {
+			this.initMailingList(process.env.MAILGUN_NEWSLETTER);
+		}
 
 		// Load this header/footer
 		this.loadHeaderTemplate('assets/html/email-header.html');
