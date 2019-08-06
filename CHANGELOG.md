@@ -1,5 +1,10 @@
 # PointyApi Mailer Module Changelog
 
+## [0.0.3] Aug-06-2019
+
+### Fixes
+
+
 ## [0.0.2] Jul-15-2019
 
 ### Fixes
