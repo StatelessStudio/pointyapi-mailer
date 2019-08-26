@@ -1,6 +1,6 @@
 {
 	"name": "pointyapi-mailer",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"author": "stateless-studio",
 	"license": "MIT",
 	"scripts": {
@@ -9,16 +9,16 @@
 		"postinstall": "tsc --p tsconfig.dist.json"
 	},
 	"dependencies": {
-		"pointyapi": "^3.1.0",
+		"pointyapi": "^3.2.0",
 		"ts-mailgun": "^0.3.6",
 		"typeorm": "^0.2.18"
 	},
 	"main": "./index.js",
 	"types": "./index.d.ts",
 	"devDependencies": {
-		"@types/node": "^10.14.14",
+		"@types/node": "^10.14.16",
 		"source-map-support": "^0.5.13",
-		"tslint": "^5.18.0",
+		"tslint": "^5.19.0",
 		"tslint-eslint-rules": "^5.4.0",
 		"typescript": "^3.5.3"
 	},
