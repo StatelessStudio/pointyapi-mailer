@@ -1,5 +1,10 @@
 # PointyApi Mailer Module Changelog
 
+## [0.0.5] Oct-01-2019
+
+### Fixes
+- npm update
+
 ## [0.0.4] Aug-26-2019
 
 ### Fixes
