@@ -1,5 +1,12 @@
 # PointyApi Mailer Module Changelog
 
+## [0.0.7] Nov-14-2019
+
+### Fixes
+- Upgrade to node 12
+- npm update
+- Revert `.prettierrc`
+
 ## [0.0.6] Nov-12-2019
 
 ### Fixes
