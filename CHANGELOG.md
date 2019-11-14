@@ -3,6 +3,7 @@
 ## [0.0.7] Nov-14-2019
 
 ### Fixes
+- Revert `.prettierrc`
 
 ## [0.0.6] Nov-12-2019
 
