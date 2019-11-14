@@ -9,7 +9,7 @@
 		"postinstall": "tsc --p tsconfig.dist.json"
 	},
 	"dependencies": {
-		"pointyapi": "^3.2.0",
+		"pointyapi": "^3.3.0",
 		"ts-mailgun": "^0.3.8",
 		"typeorm": "^0.2.20"
 	},
